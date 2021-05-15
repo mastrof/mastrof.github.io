@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-M.Sc. in Biophysics
+M.Sc. in Physics (Biosystems)
 
-Assistant Researcher
+Junior Researcher @ Sapienza University, Rome
 
 ## Scientific interests
-- Liquid-liquid transition in supercooled water
+- Supercooled water
 - Living active matter
+- Noise in biological systems
+
