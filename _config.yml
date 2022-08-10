@@ -28,9 +28,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mastrof
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
