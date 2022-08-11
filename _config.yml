@@ -18,14 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Riccardo Foffi
-email: riccardo.foffi@protonmail.com
+title: "Riccardo Foffi"
+name: "Riccardo Foffi"
+email: "riccardo.foffi@protonmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal homepage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  mastrof
+  "A personal homepage for scientific projects"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mastrof.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: "jekyllrb"
+github_username:  "mastrof"
+repository: "mastrof/mastrof.github.io"
+
+# Site Author
+author:
+    name: "Riccardo Foffi"
+    avatar:
+    bio: "prova"
+    location: "Zurich, Switzerland"
+    email: "riccardo.foffi@gmail.com"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 
 # Build settings
 # theme: jekyll-theme-cayman
@@ -33,7 +51,24 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-include-cache # used by minimal-mistakes
+    
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      comments: # true
+      share: true
+      related: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
