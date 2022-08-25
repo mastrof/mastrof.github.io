@@ -16,9 +16,11 @@ permalink: /resources/
 [BioNumbers](https://bionumbers.hms.harvard.edu/search.aspx). Database of useful molecular biology numbers.
 
 ## Videos
+[National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html).
 
 ## Web
 [Addgene](https://www.addgene.org/). Plasmid repository. \\
 [AskNature](https://asknature.org/). Collection of strategies adopted by living beings. \\
+[Complexity Explorables](https://www.complexity-explorables.org/). Collection of interactive complex systems.
 [SklogWiki](http://www.sklogwiki.org/SklogWiki/index.php/Main_Page). Statistical mechanics wiki. \\
 [Water Structure and Science](https://water.lsbu.ac.uk/water/). Everything about water.
