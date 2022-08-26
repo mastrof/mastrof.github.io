@@ -51,22 +51,36 @@ the sum of its digits grows much slower than $$A$$ itself, and there is
 only one solution to the problem.
 
 ```julia
-    using Plots
     A = 1:100
     y = @. 2 * sum(digits(A))
+    sol = findall(A .== y)
+```
+
+```
+1-element Vector{Int64}:
+ 18
+```
+
+
+
+```julia
+    using Plots
     plot(A, A, lw = 3,
         xlabel = "A",
-        xticks = 10 .^ (0:3),
-        yticks = 10 .^ (0:2), ylims=(0.9, 110),
         label = "A",
         legend = :topleft, legendfontsize = 10,
         bgcolorlegend = :transparent,
         scale = :log10,
     )
     scatter!(A, y,
-        m = :c, ms = 6, msw = 0,
+        m = :c, ms = 3, msw = 0,
         lab = "2*digitsum(A)"
+    )
+
+    scatter!(A[sol], y[sol],
+        m = :r, ms = 6, msw = 0,
+        lab = "solution"
     )
 ```
 
-![](/assets/2022-08-26-integer-twice-sum-digits_1_1.png)
+![](/assets/2022-08-26-integer-twice-sum-digits_2_1.png)
