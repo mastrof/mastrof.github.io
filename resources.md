@@ -14,6 +14,7 @@ permalink: /resources/
 
 ## Tools
 [BioNumbers](https://bionumbers.hms.harvard.edu/search.aspx). Database of useful molecular biology numbers. \
+[ConnectedPapers](https://www.connectedpapers.com/). Explore connections between papers. \
 [Nikon Depth of Field Calculator](https://www.microscopyu.com/tutorials/depthoffield). Self-explanatory. 
 
 ## Videos
