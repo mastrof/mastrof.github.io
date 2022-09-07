@@ -7,7 +7,8 @@ permalink: /resources/
 
 ## Blogs
 [Statistical Biophysics Blog](http://statisticalbiophysicsblog.org/). \
-[The Eighteenth Elephant](https://eighteenthelephant.com/). 
+[The Eighteenth Elephant](https://eighteenthelephant.com/). \
+[Total Internal Reflection](https://totalinternalreflectionblog.com/).  
 
 ## Seminars
 [BPPB Virtual Seminars (2020)](https://iyerbiswas.com/outreach/bppbseminars/schedule/). 
