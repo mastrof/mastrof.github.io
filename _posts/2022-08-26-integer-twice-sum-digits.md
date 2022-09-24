@@ -63,24 +63,4 @@ only one solution to the problem.
 
 
 
-```julia
-    using Plots
-    plot(A, A, lw = 3,
-        xlabel = "A",
-        label = "A",
-        legend = :topleft, legendfontsize = 10,
-        bgcolorlegend = :transparent,
-        scale = :log10,
-    )
-    scatter!(A, y,
-        m = :c, ms = 3, msw = 0,
-        lab = "2*digitsum(A)"
-    )
-
-    scatter!(A[sol], y[sol],
-        m = :r, ms = 6, msw = 0,
-        lab = "solution"
-    )
-```
-
 ![](/assets/2022-08-26-integer-twice-sum-digits_2_1.png)
