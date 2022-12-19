@@ -9,6 +9,10 @@ permalink: /projects/
 ## Noise
 
 ## Programming
+#### Exploring genetic circuits with Catalyst.jl
+A brief exploration of genetic circuits via the `Catalyst.jl` Julia library.
+Mainly inspired by Alon, U. *An introduction to systems biology: design principles of biological circuits* (CRC Press, 2019).
+1. [Feedforward loops](/_posts/2022-10-16-feedforward-loops.md)
 
 ## Water
 
