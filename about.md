@@ -13,4 +13,4 @@ I currently work on developing experimental tools for long-term cell tracking an
 In this website, I want to collect results from my scientific explorations, ideas, notes and maybe tutorials.
 Some of this content might be related to what I do in my daily work, some other might not.
 
-Passionate for Physics, Julia, Music, Reading, Dinosaurs and Dungeons \& Dragons.
+Passionate for Physics, Programming (Julia), Music, Reading, Dinosaurs and Dungeons & Dragons.
