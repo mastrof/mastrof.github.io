@@ -6,12 +6,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porta porttitor m
 
 #### News
 ---
-<small>
-
-**20.12.2022** \
-New paper on structural fluctuations in supercooled water out on J. Phys. Chem. B! [[link]](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c07169). \
+<sub>
+**20.12.2022** \\
+New paper on structural fluctuations in supercooled water out on J. Phys. Chem. B! [[link]](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c07169). \\
 Open access thanks to [Fondazione CRUI](https://www.fondazionecrui.it/).
-
-</small>
+</sub>
 <br>
 <br>
