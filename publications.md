@@ -5,10 +5,26 @@ permalink: /publications/
 ---
 
 <ol reversed>
+
+<li>
+Jonasz Slomka, Uria Alcolombri, Francesco Carrara, Riccardo Foffi, Francois Peaudecerf, Matti Zbinden and Roman Stocker <br>
+"Encounter rates prime interactions between microorganisms", <br>
+Interface Focus, <b>13</b>, 20220059 (2023) <a href="https://doi.org/10.1098/rsfs.2022.0059">https://doi.org/10.1098/rsfs.2022.0059</a>
+[<a href="https://mastrof.github.io/pdfs/slomka_2023_encounter_rates_prime_interactions.pdf">full</a>]
+</li>
+
+<li>
+Riccardo Foffi & Francesco Sciortino <br>
+"Correlated Fluctuations of Structural Indicators Close to the Liquid-Liquid Transition in Supercooled Water", <br>
+The Journal of Physical Chemistry B <b>127</b>, 378 (2022) <a href="https://doi.org/10.1021/acs.jpcb.2c07169">https://doi.org/10.1021/acs.jpcb.2c07169</a> <br>
+[<a href="https://mastrof.github.io/pdfs/foffi_2022_correlated_fluctuations_of_structural.pdf" target="_blank">full</a>]
+[<a href="https://mastrof.github.io/pdfs/foffi_2022_correlated_fluctuations_of_structural_SM.pdf" target="_blank">supplement</a>]
+</li>
+
 <li>
 Riccardo Foffi, Francesco Sciortino, José Maria Tavares, Paulo Teixeira <br>
 "Building up DNA, bit by bit: a simple description of chain assembly",<br>
-Soft Matter <b>17</b>, 10736, (2021) <a href="https://doi.org/10.1039/d1sm01130h">https://doi.org/10.1039/d1sm01130h</a><br>
+Soft Matter <b>17</b>, 10736 (2021) <a href="https://doi.org/10.1039/d1sm01130h">https://doi.org/10.1039/d1sm01130h</a><br>
 [<a href="https://arxiv.org/abs/2111.03978">preprint</a>]
 [<a href="https://mastrof.github.io/pdfs/foffi_2021_building_up_dna_bit_by_bit.pdf" target="_blank">full</a>]
 </li>
